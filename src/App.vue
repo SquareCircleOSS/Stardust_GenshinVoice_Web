@@ -1,6 +1,6 @@
 <script setup>
-import VersionList from './components/VersionList.vue'
-import CompareVersion from './components/CompareVersion.vue'
+import VersionList from './components/Articles/VersionList.vue'
+import CompareVersion from './components/Articles/CompareVersion.vue'
 import 'mdui/mdui.css';
 import 'mdui';
 import 'mdui/components/top-app-bar.js';
