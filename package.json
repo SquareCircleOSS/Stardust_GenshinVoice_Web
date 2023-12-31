@@ -11,10 +11,10 @@
   "dependencies": {
     "@mdui/icons": "^1.0.1",
     "mdui": "^2.0.1",
-    "vue": "^3.3.4"
+    "vue": "^3.4.3"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
-    "vite": "^4.4.5"
+    "vite": "^5.0.10"
   }
 }
